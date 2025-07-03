@@ -6,3 +6,5 @@ dist
 logs
 coverage
 node_modules
+
+src
