@@ -1,7 +1,7 @@
 {
   "name": "@pikopika/ioredis-conn-pool",
   "description": "A Redis connection pool implementation based on `ioredis` and `generic-pool`, designed to simplify the management of Redis client connections in Node.js applications.",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "types": "dist/index.d.ts",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
