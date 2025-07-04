@@ -25,5 +25,5 @@ export interface ILogger {
 
 export {
   PoolOptions,
-  RedisOptions
+  RedisOptions,
 };
